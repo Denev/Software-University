@@ -1,0 +1,8 @@
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\06.NumbersSequence\bin\Debug\06.NumbersSequence.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\06.NumbersSequence\bin\Debug\06.NumbersSequence.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\06.NumbersSequence\bin\Debug\06.NumbersSequence.pdb
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\06.NumbersSequence\obj\Debug\06.NumbersSequence.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\06.NumbersSequence\obj\Debug\06.NumbersSequence.pdb
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\06.NumbersSequence\bin\Debug\06.NumbersSequence.exe.config
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\06.NumbersSequence\obj\Debug\06.NumbersSequence.exe
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\06.NumbersSequence\obj\Debug\06.NumbersSequence.pdb

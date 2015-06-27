@@ -1,0 +1,6 @@
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.exe.config
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.pdb

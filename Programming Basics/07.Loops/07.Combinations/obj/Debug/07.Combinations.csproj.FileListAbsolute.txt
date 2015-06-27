@@ -1,0 +1,6 @@
+C:\Users\Denev\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\bin\Debug\07.Combinations.exe.config
+C:\Users\Denev\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\bin\Debug\07.Combinations.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\bin\Debug\07.Combinations.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\obj\Debug\07.Combinations.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\obj\Debug\07.Combinations.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\obj\Debug\07.Combinations.csprojResolveAssemblyReference.cache

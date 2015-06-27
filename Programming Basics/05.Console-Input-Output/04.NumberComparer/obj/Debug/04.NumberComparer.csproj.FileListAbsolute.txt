@@ -1,0 +1,6 @@
+c:\users\denev\documents\visual studio 2013\Projects\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+c:\users\denev\documents\visual studio 2013\Projects\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+c:\users\denev\documents\visual studio 2013\Projects\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.csprojResolveAssemblyReference.cache
+c:\users\denev\documents\visual studio 2013\Projects\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+c:\users\denev\documents\visual studio 2013\Projects\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.pdb

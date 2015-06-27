@@ -1,0 +1,5 @@
+C:\Users\Denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+C:\Users\Denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb

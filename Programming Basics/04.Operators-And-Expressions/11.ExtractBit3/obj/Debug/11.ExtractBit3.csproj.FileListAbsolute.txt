@@ -1,0 +1,5 @@
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe.config
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\11.ExtractBit3\bin\Debug\11.ExtractBit3.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\11.ExtractBit3\obj\Debug\11.ExtractBit3.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\11.ExtractBit3\obj\Debug\11.ExtractBit3.pdb

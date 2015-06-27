@@ -1,0 +1,5 @@
+c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\02.NumbersNotDivisableByThree\bin\Debug\02.NumbersNotDivisableByThree.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\02.NumbersNotDivisableByThree\bin\Debug\02.NumbersNotDivisableByThree.exe
+c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\02.NumbersNotDivisableByThree\bin\Debug\02.NumbersNotDivisableByThree.pdb
+c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\02.NumbersNotDivisableByThree\obj\Debug\02.NumbersNotDivisableByThree.exe
+c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\02.NumbersNotDivisableByThree\obj\Debug\02.NumbersNotDivisableByThree.pdb

@@ -1,0 +1,5 @@
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

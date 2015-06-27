@@ -1,0 +1,5 @@
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\13.WorkHours\bin\Debug\13.WorkHours.exe.config
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\13.WorkHours\bin\Debug\13.WorkHours.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\13.WorkHours\bin\Debug\13.WorkHours.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\13.WorkHours\obj\Debug\13.WorkHours.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\13.WorkHours\obj\Debug\13.WorkHours.pdb

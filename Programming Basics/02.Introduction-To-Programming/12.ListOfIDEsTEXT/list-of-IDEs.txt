@@ -1,0 +1,68 @@
+Problem 12. Development Environments
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development 
+environments (IDEs) like Visual Studio. Write in a text file called “list-of-IDEs.txt” at least five 
+IDEs along with 2-3 sentences about each of them. Use English.
+
+Code::Blocks
+
+Code::Blocks is a free, open source cross-platform IDE which supports multiple compilers including GCC, 
+Clang and Visual C++. It is developed in C++ using wxWidgets as the GUI toolkit. Using a plugin architecture, 
+its capabilities and features are defined by the provided plugins. Currently, Code::Blocks is oriented towards 
+C, C++, and Fortran. It has a custom build system and optional Make support.
+Code::Blocks is being developed for Windows, Linux, and Mac OS X and has been ported to FreeBSD, OpenBSD and Solaris.
+
+Dev-C++
+
+Dev-C++ is a free full-featured integrated development environment (IDE) distributed under the 
+GNU General Public License for programming in C and C++. It is written in Delphi.
+It is bundled with, and uses, the MinGW or TDM-GCC 64bit port of the GCC as its compiler. 
+Dev-C++ can also be used in combination with Cygwin or any other GCC-based compiler.
+Dev-C++ is generally considered a Windows-only program, but there are attempts to create a Linux version:
+ header files and path delimiters are switchable between platforms.
+
+Eclipse
+
+Eclipse is an integrated development environment (IDE). It contains a base workspace and an 
+extensible plug-in system for customizing the environment. Written mostly in Java, 
+Eclipse can be used to develop applications. By means of various plug-ins, 
+Eclipse may also be used to develop applications in other programming languages: 
+Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Lua, Natural, Perl, PHP, Prolog, Python, R, 
+Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. 
+It can also be used to develop packages for the software Mathematica. 
+Development environments include the Eclipse Java development tools (JDT) for Java and Scala, 
+Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+Android Studio
+
+Android Studio is an integrated development environment (IDE) for developing on the Android platform. 
+It was announced on May 16, 2013 at the Google I/O conference by Google's Product Manager, Katherine Chou. 
+Android Studio is freely available under the Apache License 2.0.
+Android Studio was in early access preview stage starting from version 0.1 in May 2013, 
+then entered beta stage starting from version 0.8 which was released in June 2014. 
+The first stable build was released in December 2014, starting from version 1.0.
+Based on JetBrains' IntelliJ IDEA software, Android Studio is designed specifically for Android development.
+It is available for download on Windows, Mac OS X and Linux, and replaced Eclipse Android Development Tools (ADT)
+as Google's primary IDE for native Android application development.
+
+KDevelop
+
+KDevelop is a free software integrated development environment (IDE) for the KDE Platform on Unix-like 
+computer operating systems. KDevelop includes no compiler; instead,
+it uses an external compiler such as GCC or Clang to produce executable binaries.
+The current version, 4.7.1, was officially released on 6 February 2015, and will be the last version to use
+Qt 4 and KDElibs 4, as the next major release will rely on Qt 5 and KDE Frameworks 5. 
+It builds on various KDE Platform 4 technologies and supports C, C++, PHP and Python development, among others.
+The last stable release of the previous major version, 3.5.5, which is based on 
+K Desktop Environment 3 technology, supports many programming languages such as 
+Ada, Bash, C, C++, Fortran, Java, Pascal, Perl, PHP, Python and Ruby.
+Released under the GNU General Public License, KDevelop is free software.
+
+Sources:
+
+http://en.wikipedia.org/wiki/Code::Blocks
+http://en.wikipedia.org/wiki/Dev-C%2B%2B
+http://en.wikipedia.org/wiki/Eclipse_(software)
+http://en.wikipedia.org/wiki/Android_Studio
+http://en.wikipedia.org/wiki/KDevelop
+

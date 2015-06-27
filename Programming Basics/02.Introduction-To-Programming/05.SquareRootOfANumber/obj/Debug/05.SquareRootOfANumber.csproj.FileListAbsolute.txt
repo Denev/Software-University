@@ -1,0 +1,8 @@
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\05.SquareRootOfANumber\bin\Debug\05.SquareRootOfANumber.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\05.SquareRootOfANumber\bin\Debug\05.SquareRootOfANumber.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\05.SquareRootOfANumber\bin\Debug\05.SquareRootOfANumber.pdb
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\05.SquareRootOfANumber\obj\Debug\05.SquareRootOfANumber.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\05.SquareRootOfANumber\obj\Debug\05.SquareRootOfANumber.pdb
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\05.SquareRootOfANumber\bin\Debug\05.SquareRootOfANumber.exe.config
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\05.SquareRootOfANumber\obj\Debug\05.SquareRootOfANumber.exe
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\05.SquareRootOfANumber\obj\Debug\05.SquareRootOfANumber.pdb

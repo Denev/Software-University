@@ -1,0 +1,5 @@
+c:\users\denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\05.ThirdDigitSeven\bin\Debug\05.ThirdDigitSeven.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\05.ThirdDigitSeven\bin\Debug\05.ThirdDigitSeven.exe
+c:\users\denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\05.ThirdDigitSeven\bin\Debug\05.ThirdDigitSeven.pdb
+c:\users\denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\05.ThirdDigitSeven\obj\Debug\05.ThirdDigitSeven.exe
+c:\users\denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\05.ThirdDigitSeven\obj\Debug\05.ThirdDigitSeven.pdb

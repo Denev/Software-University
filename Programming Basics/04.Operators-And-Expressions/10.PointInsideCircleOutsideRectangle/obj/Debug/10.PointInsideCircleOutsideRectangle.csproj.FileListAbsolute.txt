@@ -1,0 +1,5 @@
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe.config
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.pdb

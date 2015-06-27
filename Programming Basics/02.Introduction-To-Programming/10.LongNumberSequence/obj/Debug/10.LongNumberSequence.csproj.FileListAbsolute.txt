@@ -1,0 +1,9 @@
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\10.LongNumberSequence\bin\Debug\10.LongNumberSequence.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\10.LongNumberSequence\bin\Debug\10.LongNumberSequence.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\10.LongNumberSequence\bin\Debug\10.LongNumberSequence.pdb
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\10.LongNumberSequence\obj\Debug\10.LongNumberSequence.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\10.LongNumberSequence\obj\Debug\10.LongNumberSequence.pdb
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\10.LongNumberSequence\obj\Debug\10.LongNumberSequence.csprojResolveAssemblyReference.cache
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\10.LongNumberSequence\bin\Debug\10.LongNumberSequence.exe.config
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\10.LongNumberSequence\obj\Debug\10.LongNumberSequence.exe
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\10.LongNumberSequence\obj\Debug\10.LongNumberSequence.pdb

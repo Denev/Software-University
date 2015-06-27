@@ -1,0 +1,5 @@
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

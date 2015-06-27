@@ -1,0 +1,8 @@
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\07.ReformatCSharpCode\bin\Debug\07.ReformatCSharpCode.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\07.ReformatCSharpCode\bin\Debug\07.ReformatCSharpCode.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\07.ReformatCSharpCode\bin\Debug\07.ReformatCSharpCode.pdb
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\07.ReformatCSharpCode\obj\Debug\07.ReformatCSharpCode.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\07.ReformatCSharpCode\obj\Debug\07.ReformatCSharpCode.pdb
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\07.ReformatCSharpCode\bin\Debug\07.ReformatCSharpCode.exe.config
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\07.ReformatCSharpCode\obj\Debug\07.ReformatCSharpCode.exe
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\07.ReformatCSharpCode\obj\Debug\07.ReformatCSharpCode.pdb

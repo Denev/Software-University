@@ -1,0 +1,8 @@
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\02.PrintMyName\bin\Debug\02.PrintMyName.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\02.PrintMyName\bin\Debug\02.PrintMyName.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\02.PrintMyName\bin\Debug\02.PrintMyName.pdb
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\02.PrintMyName\obj\Debug\02.PrintMyName.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\02.PrintMyName\obj\Debug\02.PrintMyName.pdb
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\02.PrintMyName\bin\Debug\02.PrintMyName.exe.config
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\02.PrintMyName\obj\Debug\02.PrintMyName.exe
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\02.PrintMyName\obj\Debug\02.PrintMyName.pdb

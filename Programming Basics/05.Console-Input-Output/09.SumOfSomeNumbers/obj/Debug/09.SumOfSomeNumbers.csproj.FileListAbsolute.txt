@@ -1,0 +1,5 @@
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\09.SumOfSomeNumbers\bin\Debug\09.SumOfSomeNumbers.exe.config
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\09.SumOfSomeNumbers\bin\Debug\09.SumOfSomeNumbers.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\09.SumOfSomeNumbers\bin\Debug\09.SumOfSomeNumbers.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\09.SumOfSomeNumbers\obj\Debug\09.SumOfSomeNumbers.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\09.SumOfSomeNumbers\obj\Debug\09.SumOfSomeNumbers.pdb

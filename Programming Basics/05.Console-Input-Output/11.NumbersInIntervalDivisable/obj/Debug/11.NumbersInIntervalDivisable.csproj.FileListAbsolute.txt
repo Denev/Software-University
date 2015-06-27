@@ -1,0 +1,6 @@
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\11.NumbersInIntervalDivisable\bin\Debug\11.NumbersInIntervalDivisable.exe.config
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\11.NumbersInIntervalDivisable\bin\Debug\11.NumbersInIntervalDivisable.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\11.NumbersInIntervalDivisable\bin\Debug\11.NumbersInIntervalDivisable.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\11.NumbersInIntervalDivisable\obj\Debug\11.NumbersInIntervalDivisable.csprojResolveAssemblyReference.cache
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\11.NumbersInIntervalDivisable\obj\Debug\11.NumbersInIntervalDivisable.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\11.NumbersInIntervalDivisable\obj\Debug\11.NumbersInIntervalDivisable.pdb

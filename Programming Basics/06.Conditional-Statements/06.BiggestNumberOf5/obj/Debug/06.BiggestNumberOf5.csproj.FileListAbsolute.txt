@@ -1,0 +1,5 @@
+c:\users\denev\documents\visual studio 2013\Projects\ConditionalStatements\06.BiggestNumberOf5\bin\Debug\06.BiggestNumberOf5.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\ConditionalStatements\06.BiggestNumberOf5\bin\Debug\06.BiggestNumberOf5.exe
+c:\users\denev\documents\visual studio 2013\Projects\ConditionalStatements\06.BiggestNumberOf5\bin\Debug\06.BiggestNumberOf5.pdb
+c:\users\denev\documents\visual studio 2013\Projects\ConditionalStatements\06.BiggestNumberOf5\obj\Debug\06.BiggestNumberOf5.exe
+c:\users\denev\documents\visual studio 2013\Projects\ConditionalStatements\06.BiggestNumberOf5\obj\Debug\06.BiggestNumberOf5.pdb

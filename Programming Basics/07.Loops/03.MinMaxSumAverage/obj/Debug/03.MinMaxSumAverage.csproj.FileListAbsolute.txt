@@ -1,0 +1,6 @@
+c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.exe
+c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.pdb
+c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverage\obj\Debug\03.MinMaxSumAverage.exe
+c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\03.MinMaxSumAverage\obj\Debug\03.MinMaxSumAverage.pdb
+C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\03.MinMaxSumAverage\obj\Debug\03.MinMaxSumAverage.csprojResolveAssemblyReference.cache

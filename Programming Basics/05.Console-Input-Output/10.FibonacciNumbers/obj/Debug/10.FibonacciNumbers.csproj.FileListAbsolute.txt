@@ -1,0 +1,6 @@
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
+C:\Users\Denev\documents\visual studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache

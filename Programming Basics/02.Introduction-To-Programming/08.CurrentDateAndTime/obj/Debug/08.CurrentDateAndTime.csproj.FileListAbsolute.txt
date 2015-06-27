@@ -1,0 +1,8 @@
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.pdb
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.exe
+c:\users\denev\documents\visual studio 2013\Projects\IntroductionToProgramming\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.pdb
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.exe.config
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.exe
+C:\Users\Denev\Desktop\Software University\Programming Basics\IntroductionToProgramming\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.pdb

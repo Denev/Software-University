@@ -1,0 +1,5 @@
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+c:\users\denev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb
