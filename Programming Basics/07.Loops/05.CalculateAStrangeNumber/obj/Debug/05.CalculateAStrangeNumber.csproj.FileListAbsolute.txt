@@ -4,3 +4,6 @@ c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\05.Calculate
 c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\05.CalculateAStrangeNumber\obj\Debug\05.CalculateAStrangeNumber.exe
 c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\05.CalculateAStrangeNumber\obj\Debug\05.CalculateAStrangeNumber.pdb
 C:\Users\Denev\documents\visual studio 2013\Projects\Loops-Homework\05.CalculateAStrangeNumber\obj\Debug\05.CalculateAStrangeNumber.csprojResolveAssemblyReference.cache
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\05.CalculateAStrangeNumber\bin\Debug\05.CalculateAStrangeNumber.exe.config
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\05.CalculateAStrangeNumber\obj\Debug\05.CalculateAStrangeNumber.exe
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\05.CalculateAStrangeNumber\obj\Debug\05.CalculateAStrangeNumber.pdb

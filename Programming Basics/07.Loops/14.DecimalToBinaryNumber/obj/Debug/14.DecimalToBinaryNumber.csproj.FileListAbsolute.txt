@@ -4,3 +4,6 @@ C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\14.DecimalTo
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.exe
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.pdb
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.csprojResolveAssemblyReference.cache
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe.config
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.exe
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.pdb

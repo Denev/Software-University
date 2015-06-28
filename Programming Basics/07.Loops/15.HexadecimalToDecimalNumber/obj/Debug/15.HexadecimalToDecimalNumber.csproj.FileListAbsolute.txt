@@ -3,3 +3,6 @@ C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\15.Hexadecim
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.exe
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.pdb
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe.config
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.exe
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.pdb

@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Write a program that enters in integer n and prints the numbers 1, 2, …, n in random order.  
+
+using System;
 using System.Linq;
 using System.Collections.Generic;
 class RandomizeTheNumbers1ToN

@@ -4,3 +4,6 @@ c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\04.PrintADec
 c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
 c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb
 C:\Users\Denev\documents\visual studio 2013\Projects\Loops-Homework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb

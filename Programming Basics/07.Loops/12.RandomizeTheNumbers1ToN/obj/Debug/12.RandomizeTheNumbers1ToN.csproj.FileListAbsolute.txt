@@ -4,3 +4,6 @@ C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\12.Randomize
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.csprojResolveAssemblyReference.cache
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.exe
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.pdb
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.exe.config
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.exe
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.pdb

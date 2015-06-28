@@ -3,3 +3,6 @@ C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\11.RandomNum
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.pdb
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.exe
 C:\Users\Denev\Documents\Visual Studio 2013\Projects\Loops-Homework\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.pdb
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.exe.config
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.exe
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.pdb

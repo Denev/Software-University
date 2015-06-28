@@ -3,3 +3,6 @@ c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\06.Calculate
 c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\06.CalculateNFactorialDividedByKFactorial\bin\Debug\06.CalculateNFactorialDividedByKFactorial.pdb
 c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\06.CalculateNFactorialDividedByKFactorial\obj\Debug\06.CalculateNFactorialDividedByKFactorial.exe
 c:\users\denev\documents\visual studio 2013\Projects\Loops-Homework\06.CalculateNFactorialDividedByKFactorial\obj\Debug\06.CalculateNFactorialDividedByKFactorial.pdb
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\06.CalculateNFactorialDividedByKFactorial\bin\Debug\06.CalculateNFactorialDividedByKFactorial.exe.config
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\06.CalculateNFactorialDividedByKFactorial\obj\Debug\06.CalculateNFactorialDividedByKFactorial.exe
+C:\Users\Denev\Desktop\Software University\Software University\Programming Basics\07.Loops\06.CalculateNFactorialDividedByKFactorial\obj\Debug\06.CalculateNFactorialDividedByKFactorial.pdb
