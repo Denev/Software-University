@@ -12,6 +12,5 @@ class RandomizeTheNumbers1ToN
         {
             Console.WriteLine(numbers[i]);
         }
-        Console.WriteLine((33 / 16) % 16);
     }
 }
