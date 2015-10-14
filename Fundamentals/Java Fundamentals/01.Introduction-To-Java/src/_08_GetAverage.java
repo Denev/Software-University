@@ -15,6 +15,8 @@ public class _08_GetAverage {
         double thirdNumber = scanner.nextDouble();
 
         getAverage(firstNumber, secondNumber, thirdNumber);
+
+
     }
 
     public static void getAverage(double firstNumber, double secondNumber, double thirdNumber){
