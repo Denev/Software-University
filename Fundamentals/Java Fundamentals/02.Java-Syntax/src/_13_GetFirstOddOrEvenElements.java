@@ -25,8 +25,7 @@ public class _13_GetFirstOddOrEvenElements {
                     if (currentNumber % 2 != 0){
                         System.out.print(currentNumber + " ");
                     }
-                }
-                else{
+                }else{
                     if (currentNumber % 2 == 0){
                         System.out.print(currentNumber + " ");
                     }
